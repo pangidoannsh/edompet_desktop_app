@@ -1,0 +1,7 @@
+Kirim Uang;28 Feb 2022-01:34;1000000;Pangidoan NSH;untuk jajan
+Terima Uang;06 Mar 2022-21:45;90000;Pangidoan NSH;null
+Terima Uang;06 Mar 2022-21:45;90000;Pangidoan NSH;null
+Terima Uang;06 Mar 2022-21:45;90000;Pangidoan NSH;null
+Terima Uang;06 Mar 2022-21:45;90000;Pangidoan NSH;null
+Kirim Uang;06 Mar 2022-21:46;90000;Pangidoan NSH;null
+Terima Uang;06 Mar 2022-21:46;20000;Pangidoan NSH;null

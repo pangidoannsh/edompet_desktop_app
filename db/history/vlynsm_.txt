@@ -1,0 +1,5 @@
+Kirim Uang;19 Nov 2021-19:30;50000;Pangidoan NSH;Tuliskan Catatan
+Isi Saldo;20 Nov 2021-19:30;650000;Bank BNI;null
+Tarik Uang;20 Nov 2021-19:30;100000;Bank BNI - 2343;null
+Tarik Uang;20 Nov 2021-19:30;50000;Bank Danamon - 5543;null
+Isi Saldo;20 Nov 2021-19:30;50000;Bank BNI;null

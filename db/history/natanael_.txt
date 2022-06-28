@@ -1,0 +1,10 @@
+Terima Uang;25 Nov 2021-05:21;200000;Pangidoan NSH;berbagi bersama
+Tarik Uang;29 Nov 2021-15:14;200000;BANK BNI - 1444;null
+Tarik Uang;29 Nov 2021-15:19;100000;BANK BCA - 1123;null
+Isi Saldo;29 Nov 2021-15:25;400000;indomaret;null
+Tarik Uang;29 Nov 2021-15:37;100000;BANK BCA - 5422;null
+Terima Uang;01 Dec 2021-14:52;150000;Pangidoan NSH;nah untuk mu
+Terima Uang;15 Dec 2021-09:34;200000;Pangidoan NSH;bantu baya kos
+Kirim Uang;23 Feb 2022-23:26;300000;Pangidoan NSH;nih bre untuk kau...
+Kirim Uang;23 Feb 2022-23:26;300000;Pangidoan NSH;nih bre untuk kau...
+Terima Uang;23 Feb 2022-23:27;10000;Pangidoan NSH;null

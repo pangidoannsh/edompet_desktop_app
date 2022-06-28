@@ -1,0 +1,22 @@
+Tarik Uang;25 Nov 2021-05:20;150000;BANK MANDIRI - 1502;null
+Kirim Uang;25 Nov 2021-05:21;200000;Hitcha Natanael P;berbagi bersama
+Tarik Uang;29 Nov 2021-15:08;100000;BANK BRI - 1243;null
+Isi Saldo;29 Nov 2021-15:13;250000;Alfamart;null
+Isi Saldo;30 Nov 2021-08:34;250000;BNI - Bank Negara Indonesia;null
+Isi Saldo;01 Dec 2021-14:51;50000;BNI - Bank Negara Indonesia;null
+Kirim Uang;01 Dec 2021-14:52;150000;Hitcha Natanael P;nah untuk mu
+Tarik Uang;02 Dec 2021-15:40;50000;BANK BNI - 1111;null
+Tarik Uang;15 Dec 2021-09:32;50000;BANK BNI - 2345;null
+Kirim Uang;15 Dec 2021-09:34;200000;Hitcha Natanael P;bantu baya kos
+Isi Saldo;15 Dec 2021-09:37;100000;Bank Danamon;null
+Terima Uang;23 Feb 2022-23:26;300000;Hitcha Natanael P;nih bre untuk kau...
+Terima Uang;23 Feb 2022-23:26;300000;Hitcha Natanael P;nih bre untuk kau...
+Kirim Uang;23 Feb 2022-23:27;10000;Hitcha Natanael P;null
+Terima Uang;28 Feb 2022-01:34;1000000;Budi Setiawan;untuk jajan
+Kirim Uang;06 Mar 2022-21:45;90000;Budi Setiawan;null
+Kirim Uang;06 Mar 2022-21:45;90000;Budi Setiawan;null
+Kirim Uang;06 Mar 2022-21:45;90000;Budi Setiawan;null
+Kirim Uang;06 Mar 2022-21:45;90000;Budi Setiawan;null
+Terima Uang;06 Mar 2022-21:46;90000;Budi Setiawan;null
+Kirim Uang;06 Mar 2022-21:46;20000;Budi Setiawan;null
+Isi Saldo;15 May 2022-22:03;500000;indomaret;null
